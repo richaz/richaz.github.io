@@ -4,10 +4,10 @@
 permalink:           pretty
 
 # Setup
-title:               Блог Азата Заляева
-tagline:             'Заметки о путешествиях, жизни за рубежом и маркетинге'
-description:         'Здесь будет описание, которое показывается при открытии меню'
-url:                 http://richaz.ru
+title:               Richaz.online
+tagline:             'Заметки о жизни, путешествиях и маркетинге'
+description:         'Чтобы удобнее было находить информацию среди постов можно выбрать нужный раздел'
+url:                 http://richaz.online
 baseurl:             ''
 paginate:            5
 
